@@ -1,0 +1,7 @@
+C:\Users\P502\Desktop\task\ucbucaq clone\ucbucaq clone\bin\Debug\ucbucaq clone.exe.config
+C:\Users\P502\Desktop\task\ucbucaq clone\ucbucaq clone\bin\Debug\ucbucaq clone.exe
+C:\Users\P502\Desktop\task\ucbucaq clone\ucbucaq clone\bin\Debug\ucbucaq clone.pdb
+C:\Users\P502\Desktop\task\ucbucaq clone\ucbucaq clone\obj\Debug\ucbucaq clone.csproj.CoreCompileInputs.cache
+C:\Users\P502\Desktop\task\ucbucaq clone\ucbucaq clone\obj\Debug\ucbucaq clone.exe
+C:\Users\P502\Desktop\task\ucbucaq clone\ucbucaq clone\obj\Debug\ucbucaq clone.pdb
+C:\Users\P502\Desktop\task\ucbucaq clone\ucbucaq clone\obj\Debug\ucbucaq clone.csprojResolveAssemblyReference.cache
